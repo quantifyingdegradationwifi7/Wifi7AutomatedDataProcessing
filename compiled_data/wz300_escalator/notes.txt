@@ -1,0 +1,2 @@
+Notes and errors for this scenario:
+- Note: Multiple MAC addresses used in mlo_R2.pcapng: aa:8a:c2:f9:69:ae (73.3%), 02:b1:38:9d:e9:ff (18.2%)

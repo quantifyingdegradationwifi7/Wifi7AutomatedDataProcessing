@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Prevent accidental inclusion of massive packet captures
+*.pcapng
+*.pcap
+
+# Ignore local output images/tables
+summary_tables/
+graphs/
+tables/
+missed_compiled.txt

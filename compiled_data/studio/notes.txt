@@ -1,0 +1,5 @@
+Notes and errors for this scenario:
+- Note: Multiple MAC addresses used in 6_R1.pcapng: 6a:ee:10:2c:75:96 (54.6%), ce:41:54:fb:fd:f6 (44.6%)
+- Note: Multiple MAC addresses used in 5_R1.pcapng: 06:07:c7:0b:fd:cd (51.2%), be:11:19:14:13:42 (47.6%)
+- Note: Multiple MAC addresses used in mlo_R1.pcapng: 42:8d:c2:6c:21:26 (61.9%), e2:37:39:7a:8b:d7 (37.0%)
+- Run 24_R1 pcap time period unaccounted for: missing first 717.0s

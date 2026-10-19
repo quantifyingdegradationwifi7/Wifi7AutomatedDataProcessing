@@ -1,0 +1,6 @@
+Notes and errors for this scenario:
+- Note: Multiple MAC addresses used in 6_R2.pcapng: 72:17:60:a1:09:07 (76.4%), 3e:e1:91:4e:d1:64 (21.2%)
+- Note: Multiple MAC addresses used in mlo_R2.pcapng: 12:76:05:84:46:d2 (58.6%), fe:2c:0e:85:d1:29 (38.0%)
+- Note: Multiple MAC addresses used in 6_R1.pcapng: 22:d3:b0:02:ae:80 (80.4%), 4a:32:3e:e1:cf:10 (18.6%)
+- Note: Multiple MAC addresses used in 5_R1.pcapng: 36:ca:b6:e3:70:6b (74.8%), 3e:f2:7c:fc:39:f5 (14.9%)
+- Note: Multiple MAC addresses used in 5_R2.pcapng: ba:c1:78:6a:4a:80 (70.3%), 82:10:68:6f:8f:6a (29.0%)

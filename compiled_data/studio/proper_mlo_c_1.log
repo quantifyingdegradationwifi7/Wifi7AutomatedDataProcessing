@@ -1,0 +1,93 @@
+Thu Aug 20 15:18:18 2026 Connecting to host 192.168.50.5, port 5201
+Thu Aug 20 15:18:18 2026 [  6] local 192.168.50.68 port 52918 connected to 192.168.50.5 port 5201
+Thu Aug 20 15:18:19 2026 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Thu Aug 20 15:18:19 2026 [  6]   0.00-0.10   sec  10.5 MBytes   880 Mbits/sec    0    679 KBytes       
+Thu Aug 20 15:18:19 2026 [  6]   0.10-0.20   sec  6.12 MBytes   514 Mbits/sec    0   1.01 MBytes       
+Thu Aug 20 15:18:19 2026 [  6]   0.20-0.30   sec  8.62 MBytes   723 Mbits/sec    0   1.45 MBytes       
+Thu Aug 20 15:18:19 2026 [  6]   0.30-0.40   sec  8.00 MBytes   671 Mbits/sec    0   1.82 MBytes       
+Thu Aug 20 15:18:19 2026 [  6]   0.40-0.50   sec  5.75 MBytes   482 Mbits/sec    0   2.10 MBytes       
+Thu Aug 20 15:18:19 2026 [  6]   0.50-0.60   sec  8.12 MBytes   681 Mbits/sec    0   2.55 MBytes       
+Thu Aug 20 15:18:19 2026 [  6]   0.60-0.70   sec  10.9 MBytes   912 Mbits/sec    0   2.93 MBytes       
+Thu Aug 20 15:18:19 2026 [  6]   0.70-0.80   sec  10.6 MBytes   892 Mbits/sec    0   3.36 MBytes       
+Thu Aug 20 15:18:19 2026 [  6]   0.80-0.90   sec  7.62 MBytes   639 Mbits/sec    0   3.37 MBytes       
+Thu Aug 20 15:18:20 2026 [  6]   0.90-1.25   sec  33.1 MBytes   805 Mbits/sec    0   3.54 MBytes       
+Thu Aug 20 15:18:20 2026 [  6]   1.25-1.30   sec  7.38 MBytes  1.13 Gbits/sec    0   3.73 MBytes       
+Thu Aug 20 15:18:20 2026 [  6]   1.30-1.40   sec  10.2 MBytes   859 Mbits/sec    0   3.73 MBytes       
+Thu Aug 20 15:18:20 2026 [  6]   1.40-1.50   sec  9.50 MBytes   796 Mbits/sec    0   3.73 MBytes       
+Thu Aug 20 15:18:20 2026 [  6]   1.50-1.98   sec  45.5 MBytes   795 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:20 2026 [  6]   1.98-2.00   sec  1.50 MBytes   644 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:21 2026 [  6]   2.00-2.10   sec  10.6 MBytes   891 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:21 2026 [  6]   2.10-2.20   sec  9.00 MBytes   755 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:21 2026 [  6]   2.20-2.30   sec  9.75 MBytes   818 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:21 2026 [  6]   2.30-2.40   sec  9.62 MBytes   807 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:21 2026 [  6]   2.40-2.50   sec  9.75 MBytes   817 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:21 2026 [  6]   2.50-2.60   sec  8.62 MBytes   724 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:21 2026 [  6]   2.60-2.70   sec  10.2 MBytes   860 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:21 2026 [  6]   2.70-2.80   sec  11.0 MBytes   923 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:21 2026 [  6]   2.80-2.90   sec  4.50 MBytes   377 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:21 2026 [  6]   2.90-3.00   sec  10.2 MBytes   859 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:22 2026 [  6]   3.00-3.10   sec  7.38 MBytes   620 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:22 2026 [  6]   3.10-3.20   sec  10.0 MBytes   838 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:22 2026 [  6]   3.20-3.30   sec  10.0 MBytes   838 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:22 2026 [  6]   3.30-3.40   sec  9.12 MBytes   766 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:22 2026 [  6]   3.40-3.50   sec  11.0 MBytes   923 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:22 2026 [  6]   3.50-3.60   sec  6.12 MBytes   513 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:22 2026 [  6]   3.60-3.70   sec  7.00 MBytes   587 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:22 2026 [  6]   3.70-3.80   sec  10.6 MBytes   892 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:22 2026 [  6]   3.80-3.90   sec  7.38 MBytes   618 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:22 2026 [  6]   3.90-4.00   sec  10.9 MBytes   912 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:23 2026 [  6]   4.00-4.10   sec  9.25 MBytes   776 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:23 2026 [  6]   4.10-4.20   sec  9.25 MBytes   776 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:23 2026 [  6]   4.20-4.30   sec  8.50 MBytes   713 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:23 2026 [  6]   4.30-4.40   sec  11.2 MBytes   943 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:23 2026 [  6]   4.40-4.50   sec  8.75 MBytes   733 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:23 2026 [  6]   4.50-4.60   sec  9.62 MBytes   808 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:23 2026 [  6]   4.60-4.70   sec  9.88 MBytes   828 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:23 2026 [  6]   4.70-4.80   sec  7.62 MBytes   640 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:23 2026 [  6]   4.80-4.90   sec  9.62 MBytes   808 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:23 2026 [  6]   4.90-5.00   sec  9.00 MBytes   754 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:24 2026 [  6]   5.00-5.10   sec  10.1 MBytes   850 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:24 2026 [  6]   5.10-5.20   sec  9.25 MBytes   776 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:24 2026 [  6]   5.20-5.30   sec  10.0 MBytes   839 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:24 2026 [  6]   5.30-5.40   sec  9.62 MBytes   806 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:24 2026 [  6]   5.40-5.50   sec  10.0 MBytes   839 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:24 2026 [  6]   5.50-5.86   sec  33.9 MBytes   782 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:24 2026 [  6]   5.86-5.90   sec  1.50 MBytes   347 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:24 2026 [  6]   5.90-6.00   sec  10.8 MBytes   902 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:25 2026 [  6]   6.00-6.10   sec  7.50 MBytes   629 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:25 2026 [  6]   6.10-6.20   sec  8.88 MBytes   745 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:25 2026 [  6]   6.20-6.30   sec  11.4 MBytes   954 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:25 2026 [  6]   6.30-6.40   sec  10.4 MBytes   870 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:25 2026 [  6]   6.40-6.50   sec  9.38 MBytes   786 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:25 2026 [  6]   6.50-6.60   sec  9.25 MBytes   776 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:25 2026 [  6]   6.60-6.70   sec  10.2 MBytes   859 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:25 2026 [  6]   6.70-6.80   sec  10.1 MBytes   850 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:25 2026 [  6]   6.80-6.90   sec  9.00 MBytes   755 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:25 2026 [  6]   6.90-7.00   sec  10.0 MBytes   839 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:26 2026 [  6]   7.00-7.10   sec  10.4 MBytes   870 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:26 2026 [  6]   7.10-7.20   sec  8.75 MBytes   734 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:26 2026 [  6]   7.20-7.30   sec  9.62 MBytes   807 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:26 2026 [  6]   7.30-7.40   sec  10.5 MBytes   881 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:26 2026 [  6]   7.40-7.50   sec  9.12 MBytes   765 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:26 2026 [  6]   7.50-7.60   sec  9.38 MBytes   787 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:26 2026 [  6]   7.60-7.70   sec  7.75 MBytes   650 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:26 2026 [  6]   7.70-7.80   sec  8.50 MBytes   713 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:26 2026 [  6]   7.80-7.90   sec  9.88 MBytes   829 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:26 2026 [  6]   7.90-8.00   sec  10.1 MBytes   849 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:27 2026 [  6]   8.00-8.10   sec  9.25 MBytes   776 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:27 2026 [  6]   8.10-8.20   sec  8.38 MBytes   702 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:27 2026 [  6]   8.20-8.30   sec  12.8 MBytes  1.07 Gbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:27 2026 [  6]   8.30-8.40   sec  8.62 MBytes   724 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:27 2026 [  6]   8.40-8.50   sec  9.12 MBytes   764 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:27 2026 [  6]   8.50-8.76   sec  24.1 MBytes   766 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:27 2026 [  6]   8.76-8.80   sec  2.88 MBytes   674 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:27 2026 [  6]   8.80-8.90   sec  10.6 MBytes   892 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:27 2026 [  6]   8.90-9.00   sec  8.88 MBytes   744 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:28 2026 [  6]   9.00-9.10   sec  10.8 MBytes   902 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:29 2026 [  6]   9.10-10.17  sec  95.6 MBytes   749 Mbits/sec    0   4.12 MBytes       
+Thu Aug 20 15:18:29 2026 - - - - - - - - - - - - - - - - - - - - - - - - -
+Thu Aug 20 15:18:29 2026 [ ID] Interval           Transfer     Bitrate         Retr
+Thu Aug 20 15:18:29 2026 [  6]   0.00-10.17  sec   948 MBytes   782 Mbits/sec    0            sender
+Thu Aug 20 15:18:29 2026 [  6]   0.00-10.18  sec   947 MBytes   780 Mbits/sec                  receiver
+Thu Aug 20 15:18:29 2026 
+Thu Aug 20 15:18:29 2026 iperf Done.

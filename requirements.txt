@@ -1,0 +1,5 @@
+pyshark>=0.6.0
+numpy>=1.23.0
+matplotlib>=3.7.0
+pyautogui>=0.9.54; sys_platform == 'win32' or sys_platform == 'darwin'
+pynput>=1.7.6
